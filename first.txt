@@ -1,2 +1,6 @@
 Hello world!
+
 Adding new line from local2 master
+
+Adding a line from local1 master
+
